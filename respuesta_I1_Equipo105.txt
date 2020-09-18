@@ -1,2 +1,5 @@
+Pablo Nahuel Acosta
+Federico Agustín Ortiz
+Facundo Gabriel Falcioni
 A) Yo puedo ver los distintos cambios que hacen tanto beta como gamma
 B) Y asi mismo beta puede ver las modificaciones que hago yo o gamma
